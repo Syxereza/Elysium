@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Folders>
+  <Folder Name="Fern">
+    <InstanceVisual GUID="98144295-9083-fb02-c968-fae2db4ce674" />
+    <InstanceVisual GUID="30f64836-a9fc-0013-af54-bccab8570fe2" />
+    <InstanceVisual GUID="57a77fb8-852d-8063-ee97-af0f190d174c" />
+  </Folder>
+  <Folder Name="Long">
+    <InstanceVisual GUID="74c704fb-d261-ca91-2a52-000313dc6bfc" />
+    <InstanceVisual GUID="12e129f6-ef5a-8256-0e01-2dca4e9956cc" />
+    <InstanceVisual GUID="9b82977a-12f6-9976-cb16-60d40d97aa7c" />
+    <InstanceVisual GUID="49b68ead-c36c-3170-a3da-af7d1f76cc84" />
+  </Folder>
+  <Folder Name="Other">
+    <InstanceVisual GUID="4a0df0e7-b890-4fe6-ce9e-9bece1b3512f" />
+    <InstanceVisual GUID="b7f405f7-f367-b757-fd25-dbba7db321de" />
+    <InstanceVisual GUID="f755255a-bf37-dd2b-cfd5-56129161dd0e" />
+    <InstanceVisual GUID="bcb16dce-9c3f-3d2a-d325-68c8cf6af8f8" />
+    <InstanceVisual GUID="a9a3118a-e1ba-ff22-27d8-a65c26d9e99d" />
+    <InstanceVisual GUID="ce3b8bbc-5b3d-10b0-a0f8-8e77b3283805" />
+  </Folder>
+  <Folder Name="Clusters">
+    <InstanceVisual GUID="d7d311c6-c515-9f1a-972d-e1698d3b3c2a" />
+    <InstanceVisual GUID="2a70930a-44b1-a838-993c-ec68d753b9e3" />
+    <InstanceVisual GUID="d44c912d-94ac-dba9-c2f4-340185281d70" />
+    <InstanceVisual GUID="cfda8a52-c319-fa0e-23ad-6f3dfe7138c9" />
+    <InstanceVisual GUID="254250bd-82b7-8838-09dc-f68fa80eff33" />
+    <InstanceVisual GUID="245d9fc2-485b-60da-638e-2516f09999b9" />
+  </Folder>
+</Folders>
