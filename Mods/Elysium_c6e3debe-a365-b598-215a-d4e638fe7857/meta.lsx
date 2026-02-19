@@ -13,7 +13,7 @@
                             <attribute id="Name" type="LSString" value="GustavX"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="cb555efe-2d9e-131f-8195-a89329d218ea"/>
-                            <attribute id="Version64" type="int64" value="145241946983074840"/>
+                            <attribute id="Version64" type="int64" value="145241946983300916"/>
                         </node>
                     </children>
                 </node>
@@ -24,20 +24,51 @@
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="Elysium_c6e3debe-a365-b598-215a-d4e638fe7857"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MD5" type="LSString" value="d7af085370c34348736ecffecc2fc54f"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Elysium"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="0"/>
-                    <attribute id="StartupLevelName" type="FixedString" value=""/>
+                    <attribute id="StartupLevelName" type="FixedString" value="Rydnia"/>
                     <attribute id="UUID" type="FixedString" value="c6e3debe-a365-b598-215a-d4e638fe7857"/>
-                    <attribute id="Version64" type="int64" value="36028797018963968"/>
+                    <attribute id="Version64" type="int64" value="36028797018963971"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718626661"/>
                         </node>
-                        <node id="Scripts"/>
+                        <node id="Scripts">
+                            <children>
+                                <node id="Script">
+                                    <attribute id="UUID" type="FixedString" value="1953f77d-a201-45d7-a194-9b84c34b8461"/>
+                                    <children>
+                                        <node id="Parameters">
+                                            <children>
+                                                <node id="Parameter">
+                                                    <attribute id="MapKey" type="FixedString" value="HardcoreOnly"/>
+                                                    <attribute id="Type" type="int32" value="1"/>
+                                                    <attribute id="Value" type="LSString" value="0"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                                <node id="Script">
+                                    <attribute id="UUID" type="FixedString" value="0d6510f5-50a3-4ecd-83d8-134c9a640324"/>
+                                    <children>
+                                        <node id="Parameters">
+                                            <children>
+                                                <node id="Parameter">
+                                                    <attribute id="MapKey" type="FixedString" value="HardcoreOnly"/>
+                                                    <attribute id="Type" type="int32" value="1"/>
+                                                    <attribute id="Value" type="LSString" value="0"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
                     </children>
                 </node>
             </children>
