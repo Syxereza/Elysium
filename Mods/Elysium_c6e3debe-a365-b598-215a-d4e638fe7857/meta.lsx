@@ -21,10 +21,10 @@
                     <attribute id="Author" type="LSString" value=""/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="Test level for tabletop"/>
-                    <attribute id="FileSize" type="uint64" value="36599151"/>
+                    <attribute id="FileSize" type="uint64" value="64224565"/>
                     <attribute id="Folder" type="LSString" value="Elysium_c6e3debe-a365-b598-215a-d4e638fe7857"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="bbd67a094d1da93ad81a6de779ad2994"/>
+                    <attribute id="MD5" type="LSString" value="8b6e9ef1d32db73fd006e85559124e93"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Elysium"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value="Rydnia"/>
                     <attribute id="UUID" type="FixedString" value="c6e3debe-a365-b598-215a-d4e638fe7857"/>
-                    <attribute id="Version64" type="int64" value="36028797018963980"/>
+                    <attribute id="Version64" type="int64" value="36028797018963981"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718626661"/>
