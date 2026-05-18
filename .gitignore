@@ -35,6 +35,7 @@ Autosave/*
 Recovered/*
 ReConHistory.txt
 story.debugInfo
+aigridmeta.data
 
 # Assets             #
 ######################
@@ -116,3 +117,4 @@ launch.json
 ehthumbs.db
 Thumbs.db
 *.lnk
+Editor/Mods/Elysium_c6e3debe-a365-b598-215a-d4e638fe7857/Levels/Rydnia/Ai/aigridmeta.data
